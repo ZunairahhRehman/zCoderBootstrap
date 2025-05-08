@@ -1,0 +1,14 @@
+div{
+    background-color:blueviolet;
+    color: beige;
+    height: 100px;
+    width: 50%;
+    text-align: center;
+    box-sizing: border-box;
+}
+button{
+    background-color: rgb(73, 75, 122);
+    color: bisque;
+    height: 50px;
+    width:100px ;
+}

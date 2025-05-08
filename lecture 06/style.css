@@ -1,0 +1,25 @@
+h1 {
+    color: magenta;
+    background-color: cornsilk;
+}
+h4{
+    color: rgba(17, 17, 17, 0.566);
+}
+div {
+    background-color: rgb(240, 217, 185);
+    height: 300px;
+    width: 60%; /* Adjust as needed */
+    margin: 50px auto; /* This centers it horizontally and adds space from top */
+    text-align: center;
+    padding: 20px; /* Optional: adds space inside the box */
+    box-sizing: border-box;
+  }
+
+p{
+    color: black;
+    background-color: lightpink;
+}
+button{
+    color: darkslateblue;
+    background-color: lightpink;
+}
